@@ -1,0 +1,206 @@
+Cases of covid-19 by country.
+Date: 2021-09-13
+
+
+TotalConfirmed
+
+Global 224,350,586
+United Kingdom 7,259,752
+
+1 United States of America 40,955,201
+2 India 33,264,175
+3 Brazil 20,999,779
+4 United Kingdom 7,259,752
+5 Russian Federation 7,037,435
+6 France 6,990,662
+7 Turkey 6,658,221
+8 Iran, Islamic Republic of 5,295,786
+9 Argentina 5,224,534
+10 Colombia 4,930,249
+
+
+TotalConfirmed_per 100,000
+
+Global 268
+United Kingdom 10,801
+
+1 Seychelles 20,915
+2 Montenegro 19,608
+3 Andorra 19,521
+4 Bahrain 16,088
+5 San Marino 15,832
+6 Czech Republic 15,732
+7 Georgia 15,640
+8 Maldives 15,322
+9 Slovenia 13,150
+10 Israel 12,719
+
+
+NewConfirmed
+
+Global 155,425
+United Kingdom 28,641
+
+1 United States of America 33,807
+2 United Kingdom 28,641
+3 India 27,254
+4 Russian Federation 18,235
+5 Brazil 10,615
+6 Japan 7,205
+7 Germany 6,945
+8 Mexico 5,139
+9 Italy 4,664
+10 Pakistan 2,988
+
+
+NewConfirmed_per 100,000
+
+Global 0
+United Kingdom 43
+
+1 United Kingdom 43
+2 Russian Federation 13
+3 Germany 8
+4 Italy 8
+5 Canada 7
+6 Australia 7
+7 Japan 6
+8 Ukraine 6
+9 Brazil 5
+10 Mexico 4
+
+
+NewDeaths
+
+Global 2,177
+United Kingdom 56
+
+1 Russian Federation 773
+2 Brazil 293
+3 United States of America 279
+4 Mexico 224
+5 India 219
+6 Pakistan 67
+7 United Kingdom 56
+8 Colombia 55
+9 Japan 41
+10 Ukraine 37
+
+
+NewDeaths_per 100,000
+
+Global 0
+United Kingdom 0
+
+1 Russian Federation 1
+2 Mexico 0
+3 Chile 0
+4 Brazil 0
+5 Peru 0
+6 Colombia 0
+7 Ukraine 0
+8 United Kingdom 0
+9 Italy 0
+10 Japan 0
+
+
+TotalDeaths
+
+Global 4,627,770
+United Kingdom 134,525
+
+1 United States of America 659,970
+2 Brazil 586,851
+3 India 442,874
+4 Mexico 267,748
+5 Peru 198,764
+6 Russian Federation 189,319
+7 Indonesia 138,889
+8 United Kingdom 134,525
+9 Italy 129,919
+10 Colombia 125,647
+
+
+TotalDeaths_per 100,000
+
+Global 6
+United Kingdom 200
+
+1 Peru 603
+2 Hungary 309
+3 Bosnia and Herzegovina 305
+4 Montenegro 290
+5 Czech Republic 284
+6 Bulgaria 282
+7 Brazil 276
+8 San Marino 265
+9 Argentina 250
+10 Moldova 249
+
+
+NewRecovered
+
+Global 0
+United Kingdom 0
+
+1 Afghanistan 0
+2 Albania 0
+3 Algeria 0
+4 Andorra 0
+5 Angola 0
+6 Antigua and Barbuda 0
+7 Argentina 0
+8 Armenia 0
+9 Australia 0
+10 Austria 0
+
+
+NewRecovered_per 100,000
+
+Global 0
+United Kingdom 0
+
+1 Afghanistan 0
+2 Albania 0
+3 Algeria 0
+4 Andorra 0
+5 Angola 0
+6 Antigua and Barbuda 0
+7 Argentina 0
+8 Armenia 0
+9 Australia 0
+10 Austria 0
+
+
+TotalRecovered
+
+Global 0
+United Kingdom 0
+
+1 Afghanistan 0
+2 Albania 0
+3 Algeria 0
+4 Andorra 0
+5 Angola 0
+6 Antigua and Barbuda 0
+7 Argentina 0
+8 Armenia 0
+9 Australia 0
+10 Austria 0
+
+
+TotalRecovered_per 100,000
+
+Global 0
+United Kingdom 0
+
+1 Afghanistan 0
+2 Albania 0
+3 Algeria 0
+4 Andorra 0
+5 Angola 0
+6 Antigua and Barbuda 0
+7 Argentina 0
+8 Armenia 0
+9 Australia 0
+10 Austria 0
